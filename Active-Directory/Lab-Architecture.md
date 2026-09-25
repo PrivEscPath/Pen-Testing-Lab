@@ -24,12 +24,12 @@ The lab will be used to practice and document:
 - Post-exploitation
 - Detection and remediation
 
-## Planned Systems
+## Lab Systems
 
 | System | Operating System | Purpose |
 |---|---|---|
 | Domain Controller | Windows Server | Active Directory Domain Services and DNS |
-| Windows Workstation | Windows 10/11 | Domain-joined attack target |
+| Windows Workstation | Windows 10/11 | Domain-joined attack target | X2
 | Kali Linux | Kali Linux | Penetration testing / attacker system |
 
 Additional Windows servers, workstations, users, services, and vulnerabilities will be added as the lab develops.
@@ -40,7 +40,7 @@ The penetration testing environment will reside on an isolated lab network.
 
 Network segmentation and access controls will be configured to prevent the intentionally vulnerable systems from exposing services to untrusted networks or affecting other homelab systems.
 
-A detailed network diagram will be added after the initial environment is deployed.
+A detailed network diagram will be added once I get time to build the diagram out.
 
 ## Security Notice
 
